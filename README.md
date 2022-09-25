@@ -49,4 +49,5 @@ Edit the required value in `config.json`. You can get the token blynk at [`blynk
 
 # Thanks To
 * [`Telegraf`](https://github.com/telegraf/telegraf)
+* [`Blynk`](https://github.com/blynkkk/blynk-library)
 
