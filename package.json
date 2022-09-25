@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/LoL-Human/TelegramBot-NodeJS.git"
+        "url": "git+https://github.com/TierKun/Telegram-Bot-IoT.git"
     },
     "keywords": [
         "telegram",
@@ -29,7 +29,7 @@
     "author": "LoL Human",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/LoL-Human/TelegramBot-NodeJS/issues"
+        "url": "https://github.com/TierKun/Telegram-Bot-IoT/issues"
     },
-    "homepage": "https://github.com/LoL-Human/TelegramBot-NodeJS#readme"
+    "homepage": "https://github.com/TierKun/Telegram-Bot-IoT#readme"
 }
