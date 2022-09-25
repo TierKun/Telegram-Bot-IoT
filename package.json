@@ -1,7 +1,7 @@
 {
-    "name": "telegram-bot",
+    "name": "Telegram-Bot-IoT",
     "version": "1.1.0",
-    "description": "A simple telegram bot build with node js",
+    "description": "Chatbot Telegram can control IoT via API/endpoint",
     "main": "index.js",
     "directories": {
         "lib": "lib"
