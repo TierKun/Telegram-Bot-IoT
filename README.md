@@ -47,6 +47,11 @@ Edit the required value in `config.json`. You can get the token blynk at [`blynk
 > npm start
 ```
 
+## Stop the bot
+```cmd
+> ctrl + c 
+```
+
 # Thanks To
 * [`Telegraf`](https://github.com/telegraf/telegraf)
 * [`Blynk`](https://github.com/blynkkk/blynk-library)
