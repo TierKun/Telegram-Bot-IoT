@@ -1,0 +1,11 @@
+{
+    "bot_token": "56xxxxx:jfrsjxxxxxxx", 
+    "blynk_token": "VqR5Pyexxxxxxxxxxxxxxxxxx", 
+    "blynk_server": "sgp1.blynk.cloud",
+    "on_value": "1",
+    "off_value": "0",
+    "owner": "Tier Sinyo",
+    "ownerLink": "https://t.me/TierkunDev",
+    "version": "1.1.0",
+    "prefix": "/"
+}
