@@ -3,7 +3,7 @@ Chatbot Telegram can control IoT via API/endpoint
 
 # Installation
 
-## Connect This Project
+## Connect To Project
 * [`IoT Relay NodeMcu`](https://github.com/TierKun/IoT-Relay)
 
 ## Windows
