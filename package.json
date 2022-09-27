@@ -26,8 +26,8 @@
         "bot",
         "telegram-bot"
     ],
-    "author": "LoL Human",
-    "license": "ISC",
+    "author": "TierKun",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/TierKun/Telegram-Bot-IoT/issues"
     },
